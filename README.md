@@ -1,0 +1,2 @@
+# firmware
+Firmware mesin pencetak
